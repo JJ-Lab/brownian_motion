@@ -1,0 +1,6 @@
+VIDEO OPENCV
+https://www.youtube.com/watch?v=kUMjVo25kX0
+VIDEO PARA PROBAR
+https://youtu.be/AaBHWRMzSRo
+USO DE ROI
+https://stackoverflow.com/questions/15424852/region-of-interest-opencv-python
